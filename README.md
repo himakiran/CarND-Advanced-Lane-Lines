@@ -18,8 +18,8 @@ Description of the files
     2.Test images provided : test_images directory
     3.Test images output directory : output_images directory
     Note: Output_images directory contains sub directories that contains the output from each step
-    4.Videos provided : test_videos directory
-    5.Output Videos : test_videos_output directory
+    4.Videos provided : project_video.mp4
+    5.Output Videos : project_video_output.mp4
     6.Write-UP File : writeup_chk.md
-    7.Desired output : examples directory
+    7.Desired output : output_images directory and project_video_output.mp4
     
